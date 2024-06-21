@@ -1,5 +1,4 @@
 package Carro;
-
 /**
  * A classe Carro representa um veículo com propriedades básicas
  * como modelo, marca, ano de fabricação e velocidade atual.
