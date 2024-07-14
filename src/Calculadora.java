@@ -1,10 +1,9 @@
 public class Calculadora {
 
-    private static Double media;
-
     public static void main(String[] args) {
-        media = calcularMedia();
+        Double media = calcularMedia();
 
+        System.out.println("Esta e media dos numeros");
         System.out.println(media);
     }
 
